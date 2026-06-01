@@ -1,10 +1,10 @@
-#Installing Python and VSCode
+## Installing Python and VSCode
 
 In order to run Python code on your computer, you need to have Python installed (it isn't something that just comes with most computers). You will also want an __IDE__. An IDE is an Interactive Development Environment, which is a program that gives you a space to write and edit code, will tell you if your code has errors, will give you suggestions on how to fix them, and will allow you to use and run your code. You'll be able to follow these steps to install Python and an IDE to your classroom computer, but it will not work on your Chromebook.
 
 There are lots of popular IDEs. Two excellent ones for using with Python are PyCharm and Visual Studio Code. We are going to use VSCode because it is free and can be used with hundreds of other programming languages. 
 
-##Download VSCode
+### Download VSCode
 Go to [VisualStudio.com](https://code.visualstudio.com/download) and click on the big "Windows" box.  
 ![Download VsCode.png](/api/files/679253bc2ad2778c4838640f/download-vscode.png "Download VsCode.png")
 The installer will download and should pop up in the top right corner of your web browser.  
