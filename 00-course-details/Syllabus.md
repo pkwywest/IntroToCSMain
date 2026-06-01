@@ -1,6 +1,6 @@
-**Intro to Computer Science**
+## Intro to Computer Science
 
-***w/ Python***
+### w/ Python
 
 
 <table>
@@ -25,13 +25,13 @@
 </table>
 
 
-**Course Description**
+### Course Description
 
 037310 : Introduction to Computer Science 								½  credit
 
 This course is designed to provide students with a solid introduction to programming language. The course will provide students with a base of fundamentals in software development. Emphasis is placed on the development of problem solving algorithms and logic. Students learn to develop real life applications that involve the prerequisite to the AP Computer Science course.
 
-**Course Goals**
+### Course Goals
 
 Students will:
 
@@ -45,13 +45,12 @@ Students will:
 6. use information effectively and creatively.
 7. practice ethical, legal, and safe use of information and technology.
 
-**Text & Materials**
+### Text & Materials
 
 _Launchcode_ Text: [https://education.launchcode.org/lchs/](https://education.launchcode.org/lchs/)
 
-**Free Accounts to be used during class: **Trinket, Repl.it
 
-**Expectations**
+### Expectations
 
 
 
@@ -60,17 +59,17 @@ _Launchcode_ Text: [https://education.launchcode.org/lchs/](https://education.la
 3. Prepare in ways that will make you successful.
 4. Never take credit for work that is not your own. 
 
-**Attendance Policy**
+### Attendance Policy
 
 Regular and prompt class attendance is an essential part of the educational experience. Students will accept full responsibility for ensuring their work does not suffer because of absences. All students are expected to attend every scheduled class on time. Exceptions may be made for illness and valid emergencies. Most lab work will be completed during class time so arrangements should be made prior to planned absences.
 
-**Materials Required**
+### Materials Required
 
-Paper, two pocket folder and/or binder, pens.
+Students are expected to take notes during class. This may be done using Google Docs, on notebook paper, or in code (either using Python files or a Jupyter Notebook). If you choose to take notes on paper, you should bring paper and a writing utensil. The instructor may provide worksheets or other paper for code-tracing purposes.
 
 
 
-**Grades**
+### Grades
 
 Grades in the class will be based upon participation, classwork, homework, quizzes, tests, and a final exam. A traditional grading scale will be used.
 
@@ -83,11 +82,17 @@ Grading for this course is based on a percentage system in which:
 * tests will be 30%
 * The final exam/final coding task will be 15%
 
-**Classroom Policies**
+### Classroom Policies
 
-Cheating in any way will never be tolerated and will result in a zero for the assignment along with the policies stated in the Student Handbook. The focus of the class is learning Computer Science, and students will discuss when copying from the internet is acceptable, and when copying is plagiarism. A simple rule is the following: if you understand the few lines of code you copy/pasted, that is probably fine. If you are copying several lines of code, you probably don’t understand what you’re doing!
-
+**Attendance:**
 Students will be expected to make up their work promptly to avoid falling behind in the class. They will be expected to turn in work the day after an absence if it was previously assigned or as arranged with the teacher.** **I will accept late work until the chapter test has been given.
+
+### Generative AI Exclusion Statement/Plagiarism Policy
+Students may not use any generative AI (including, but not limited to, ChatGPT, Grok, Claude, Gemini, and Copilot) in any stage of the coding process, including in brainstorming, sequencing, writing, editing, and testing. Students may not use the work of other students, either past or present as their own. Students may not copy code from the internet, including sites like StackOverflow and Reddit and including the Google AI Overview *(Intro to Computer Science, see next paragraph)*. The instructor reserves the right to use pedagogically appropriate methods to check for plagiarism and software similarity. Assignments found to be plagiarized or created using generative AI will receive no credit, and students will not be allowed to turn the assignment in again.
+
+The focus of Intro to Computer Science is learning Computer Science, and students will discuss when copying from the internet is acceptable, and when copying is plagiarism. A simple rule for Intro to Computer Science is the following: if you understand the few lines of code you copy/pasted, that is probably fine. If you are copying several lines of code, you probably don’t understand what you’re doing!
+
+
 
 **Academic Lab**
 
