@@ -22,7 +22,7 @@ correct answer, but you completely skipped your chance to learn something.</p></
 </ol>
 <p>And don’t ever forget to:</p>
 <blockquote class="pull-quote">
-<span><p>DO THE HOMEWORK!</p>
+<span><p>DO THE WORK!</p>
 </span></blockquote>
 </span>
 
