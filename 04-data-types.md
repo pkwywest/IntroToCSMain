@@ -22,6 +22,7 @@ and <code class="docutils literal notranslate"><span class="pre">42</span></code
 
 <p >
 If you are not sure of the data type for a value, Python has the type() function to let us know!</p>
+
 ```python.run
 print(type("Hello, World!"))
 print(type(17))
@@ -33,9 +34,13 @@ print(type(3.14))
 <p class="first">What about values like <code class="docutils literal notranslate"><span class="pre">"17"</span></code> and <code class="docutils literal notranslate"><span class="pre">"3.2"</span></code>? They look like numbers, but
 they are in quotation marks like strings.</p>
 <p>Run the following code to find out.</p>
-```python.run
+
+```python
+
 print(type("17"))
+
 print(type("3.2"))
+
 ```
 <ol class="arabic" id="quote-reminder">
 <li><p class="first">In Python we can use either single quotes (<code class="docutils literal notranslate"><span class="pre">'</span></code>) or double quotes (<code class="docutils literal notranslate"><span class="pre">"</span></code>) for
