@@ -60,7 +60,7 @@ For this reason, new coders may find Python more readable than Java or JavaScrip
 <span class="section" id="python-does-lots-of-things">
 <h2><span class="section-number">1.2.2. </span>Python Does Lots of Things<a class="headerlink" href="https://education.launchcode.org/lchs/chapters/introduction/why-learn-python.html#python-does-lots-of-things" title="Permalink to this headline">¶</a></h2>
 <span class="figure align-default">
-![A snake is coding at a computer terminal in a cubicle. Two humans walk by talking to each other. One says to the other, "That's Tony, our top programmer. His code is always perfect and bug free! I just don't know how he does it."](https://education.launchcode.org/lchs/_images/Perfect-Programmer.jpg "A snake is coding at a computer terminal in a cubicle. Two humans walk by talking to each other. One says to the other, "That's Tony, our top programmer. His code is always perfect and bug free! I just don't know how he does it."")
+![A snake is coding at a computer terminal in a cubicle. Two humans walk by talking to each other. One says to the other, "That's Tony, our top programmer. His code is always perfect and bug free! I just don't know how he does it."](https://education.launchcode.org/lchs/_images/Perfect-Programmer.jpg) "A snake is coding at a computer terminal in a cubicle. Two humans walk by talking to each other. One says to the other, "That's Tony, our top programmer. His code is always perfect and bug free! I just don't know how he does it.""
 </span>
 <p>Even though Python code gets described as “simple”, this is because the
 language handles a lot of complexity for you. The nitty-gritty details occur
