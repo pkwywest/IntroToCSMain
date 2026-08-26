@@ -64,7 +64,8 @@ to create the first image ever taken of a black hole.</p>
 <span class="figure align-default">
 
 </span>
-![image description goes here](https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/blackhole.png?itok=THJrwcHP)
+<img src = "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/b/blackhole_1600.jpg?w=1600&h=932&fit=clip&crop=faces%2Cfocalpoint" width = 900>
+
 <p><a class="reference external" href="https://www.nasa.gov/mission_pages/chandra/news/black-hole-image-makes-history" target="_blank">https://www.nasa.gov/mission_pages/chandra/news/black-hole-image-makes-history<i class="fas fa-external-link-alt" aria-hidden="true"></i></a></p>
 </li>
 <li><p>The apps on a phone are just combinations of algorithms working together to
