@@ -5,7 +5,7 @@ Traditionally, the first program that you learn to code will print <code>Hello, 
 ```python.run
 print("Hello, World!")
 ```
-###Things to try now###
+### Things to try now
 * Change the message printed.
 * Figure out what the parentheses do. Will the code work without them?
 * Remove one or both quotation marks. Do we need to include both opening and closing marks?
