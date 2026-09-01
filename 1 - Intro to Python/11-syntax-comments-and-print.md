@@ -74,6 +74,7 @@ skipped when the program runs. In Python, the <code class="docutils literal notr
 and the rest of the line gets ignored.</p>
 
 <h2>3.3.1. Try It!</h2>
+
 ```python.run
 # This demo shows off comments!
 
@@ -90,6 +91,7 @@ print("Comments make your code more readable by others.")
 
 ##You can use multiple symbols to make some comments stand out!
 ```
+
 <p>Experiment by adding and removing comments to the code.</p>
 <p>Notice that when you run the program, it still prints the phrase <code class="docutils literal notranslate"><span class="pre">Hello,</span>
 <span class="pre">World</span></code>, but none of the comments appear. Also, notice the compiler ignores the blank lines left in the code.</p>
@@ -100,7 +102,19 @@ them often!</p>
 
 <span id="print-function"></span><h2>3.4.1. Examples<a class="headerlink" href="#examples" title="Permalink to this headline">¶</a></h2>
 <p>Run the example below, and note the difference between the outputs:</p>
-<iframe src="https://trinket.io/embed/python/366e5d23344a?runOption=run" width="100%" height="400" frameborder="1" marginwidth="0" marginheight="0" allowfullscreen=""></iframe><p>Observations line by line:</p>
+
+```python
+
+print('Hello, Python!')
+print(2001)
+print("What","do","commas","do?")
+print("Does", "adding",      "space", "matter?")
+print('Launch' + 'Code')
+print("LaunchCode was founded in", 2013)
+print("2001")
+```
+
+<p>Observations line by line:</p>
 <ol class="arabic simple">
 <li>In the line 2, we print some text, which is surrounded by quotes.</li>
 <li>In the line 3, we print a number. Note the absence of quote marks.</li>
