@@ -1,8 +1,9 @@
-#Print Statements#
+# Print Statements
 
 Traditionally, the first program that you learn to code will print <code>Hello, World!</code> to the screen.
+
 ```python.run
-#
+print("Hello, World!")
 ```
 ###Things to try now###
 * Change the message printed.
