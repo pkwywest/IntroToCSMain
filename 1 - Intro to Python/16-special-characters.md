@@ -34,11 +34,13 @@ print statement.
 </pre></span>
 
 </span>
+
 ```python.run
 # Use the special characters for newline and tab to produce the indented, multi-line output shown in the instructions.
 
 print('Use newline and tab characters to create this output with a single print statement.')
 ```
+
 
 </span>
 
